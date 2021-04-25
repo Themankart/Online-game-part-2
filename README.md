@@ -1,1 +1,2 @@
-# Online-game-part-2
+# synchronousBallMovement
+Ball moving synchronously
